@@ -8,7 +8,7 @@
 * 교육분야의 데이터를 분석하고 인사이트를 얻는 것에 흥미가 있습니다.
 * 다양한 머신러닝 방법론을 배우고 익히는 것에 관심이 있습니다.
 
-Skill Set
+보유스킬
 ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-158458?style=flat-square&logo=pandas&logoColor=white"/></a>
